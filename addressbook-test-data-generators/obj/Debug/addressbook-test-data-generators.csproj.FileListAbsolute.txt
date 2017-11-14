@@ -1,0 +1,44 @@
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.exe.config
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.exe
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.pdb
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.csprojResolveAssemblyReference.cache
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.exe
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.pdb
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\groups.csv
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\addressbook-web-test.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\nunit.framework.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\WebDriver.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\addressbook-web-test.pdb
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\nunit.framework.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\WebDriver.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\Google.Protobuf.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\linq2db.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\MySql.Data.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\Google.Protobuf.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\linq2db.pdb
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\MySql.Data.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\groups.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-test-data-generators\bin\Debug\Newtonsoft.Json.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\groups.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\groups.csv
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.exe.config
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.exe
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\addressbook-test-data-generators.pdb
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\addressbook-web-test.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\Google.Protobuf.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\linq2db.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\MySql.Data.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\nunit.framework.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\WebDriver.dll
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\addressbook-web-test.pdb
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\Google.Protobuf.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\linq2db.pdb
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\MySql.Data.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\Newtonsoft.Json.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\nunit.framework.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\bin\Debug\WebDriver.xml
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.csprojResolveAssemblyReference.cache
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.exe
+C:\Users\natan.radostin\Documents\GitHub\address_book_web_test\addressbook-test-data-generators\obj\Debug\addressbook-test-data-generators.pdb

@@ -1,0 +1,7 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Default" />
+  <Config name="Default" binpathtype="Auto">
+    <assembly path="addressbook-web-test.dll" />
+    <assembly path="addressbook-web-test.dll" />
+  </Config>
+</NUnitProject>

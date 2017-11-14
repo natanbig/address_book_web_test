@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1025]C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-web-test\bin\Debug\addressbook-web-test.dll</TopNode>
+  <SelectedNode>[0-1015]WebAddressbookTests.GroupCreationTests.GroupCreationTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1025]C:\Users\natan.radostin\Source\Repos\Project for testers\addressbook-web-test\addressbook-web-test\bin\Debug\addressbook-web-test.dll" Expanded="true" />
+    <Node UniqueName="[0-1026]WebAddressbookTests" Expanded="true" />
+    <Node UniqueName="[0-1014]WebAddressbookTests.GroupCreationTests" Expanded="true" />
+    <Node UniqueName="[0-1015]WebAddressbookTests.GroupCreationTests.GroupCreationTest" Expanded="true" />
+  </Nodes>
+</VisualState>
